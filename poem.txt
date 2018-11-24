@@ -1,8 +1,8 @@
-the rainbow
+ the rainbow
 purple
 orange
 blue
 red
 green
-yellow
+yellow after
 these are the colors of the rainbow
