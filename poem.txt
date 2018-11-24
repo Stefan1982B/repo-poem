@@ -5,6 +5,7 @@ orange
 blue
 red
 green
+black
 yellow after
 these are the colors of the rainbow
 and the unicorn
